@@ -1,3 +1,17 @@
+Python Implementation of OpenCV red circles detection
+=============================
+
+Requirements
+============
+opencv-python
+numpy
+
+How to use
+============
+python cv2_red_circle_detect.py -imgPath FullFilePathToSampleImage
+
+
+Below is the previous readMe of Fork from sol-prog/OpenCV-red-circle-detection 
 OpenCV red circles detection
 =============================
 
